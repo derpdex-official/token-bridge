@@ -1,0 +1,52 @@
+[
+  {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "L1Address": "0x0000000000000000000000000000000000000000",
+    "L2Address": "0x0000000000000000000000000000000000000000",
+    "isNative": true
+  },
+  {
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "L1Address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "L2Address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011"
+  },
+  {
+    "name": "cbETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "L1Address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+    "L2Address": "0x75Af292c1c9a37b3EA2E6041168B4E48875b9ED5"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "L1Address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "L2Address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4"
+  },
+  {
+    "name": "USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "L1Address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "L2Address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C"
+  },
+  {
+    "name": "LUSD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "L1Address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "L2Address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115"
+  },
+  {
+    "name": "PEPE",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "L1Address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "L2Address": "0xFD282F16a64c6D304aC05d1A58Da15bed0467c71"
+  }
+]

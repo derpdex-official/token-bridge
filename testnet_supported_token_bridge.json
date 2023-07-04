@@ -1,0 +1,31 @@
+[
+  {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18,
+    "L1Address": "0x0000000000000000000000000000000000000000",
+    "L2Address": "0x0000000000000000000000000000000000000000",
+    "isNative": true
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "decimals": 6,
+    "L1Address": "0xAF4eCFeD91cdD1380FbCb1bdE751ecd617c1333e",
+    "L2Address": "0x5Af1200B2535f985A27245153e40FDaC031c4b68"
+  },
+  {
+    "name": "WBTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "L1Address": "0x73C41Ba7899Be12421E165437eee80e857FaC138",
+    "L2Address": "0x79A3F5fE9D683Ba35aCe0E94aEAd869cf7496C34"
+  },
+  {
+    "name": "DAI",
+    "symbol": "DAI",
+    "decimals": 18,
+    "L1Address": "0x5C221E77624690fff6dd741493D735a17716c26B",
+    "L2Address": "0x3e7676937A7E96CFB7616f255b9AD9FF47363D4b"
+  }
+]
