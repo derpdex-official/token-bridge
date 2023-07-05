@@ -12,7 +12,8 @@
     "symbol": "USDC",
     "decimals": 6,
     "L1Address": "0xAF4eCFeD91cdD1380FbCb1bdE751ecd617c1333e",
-    "L2Address": "0x5Af1200B2535f985A27245153e40FDaC031c4b68"
+    "L2Address": "0x5Af1200B2535f985A27245153e40FDaC031c4b68",
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0xAF4eCFeD91cdD1380FbCb1bdE751ecd617c1333e.png"
   },
   {
     "name": "WBTC",
