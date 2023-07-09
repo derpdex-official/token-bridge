@@ -48,5 +48,19 @@
     "decimals": 18,
     "L1Address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "L2Address": "0xFD282F16a64c6D304aC05d1A58Da15bed0467c71"
+  },
+  {
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "L1Address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "L2Address": "0x5B09802d62d213c4503B4b1Ef5F727ef62c9F4eF"
+  },
+  {
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "decimals": 9,
+    "L1Address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "L2Address": "0xAA610193768223438866AD9e1973447d76e4Cf4A"
   }
 ]
