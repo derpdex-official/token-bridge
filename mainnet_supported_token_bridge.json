@@ -50,6 +50,48 @@
     "L2Address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011"
   },
   {
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "L1Address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "L2Address": "0x4B9eb6c0b6ea15176BBF62841C6B2A8a398cb656"
+  },
+  {
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "L1Address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "L2Address": "0x9a455D1a2b4630FfDb9A2307f2E875400d28B3c5"
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "L1Address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "L2Address": "0xE656852c41e6D0D1b558D296e8062D31C5a04087"
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "L1Address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "L2Address": "0x1af86Fc72C4363b1e35e6f79320F94B7aC848050"
+  },
+  {
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "L1Address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+    "L2Address": "0x621e56ff9bbc025D647844Ae606AB338d0552578"
+  },
+  {
+    "name": "Curve.Fi USD Stablecoin",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "L1Address": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "L2Address": "0x43cD37CC4B9EC54833c8aC362Dd55E58bFd62b86"
+  },
+  {
     "name": "LUSD",
     "symbol": "LUSD",
     "decimals": 18,
