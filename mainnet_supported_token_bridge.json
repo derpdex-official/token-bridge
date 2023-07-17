@@ -97,5 +97,12 @@
     "decimals": 18,
     "L1Address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "L2Address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115"
+  },
+  {
+    "name": "Flipped Pepe",
+    "symbol": "EPEP",
+    "decimals": 9,
+    "L1Address": "0x97e3C21f27182498382f81e32fbe0ea3A0e3D79b",
+    "L2Address": "0x8d45667b7A19f50ED035960816EE880D9dbF0009"
   }
 ]
