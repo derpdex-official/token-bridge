@@ -103,6 +103,7 @@
     "symbol": "EPEP",
     "decimals": 9,
     "L1Address": "0x97e3C21f27182498382f81e32fbe0ea3A0e3D79b",
-    "L2Address": "0x8d45667b7A19f50ED035960816EE880D9dbF0009"
+    "L2Address": "0x8d45667b7A19f50ED035960816EE880D9dbF0009",
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x97e3C21f27182498382f81e32fbe0ea3A0e3D79b.webp"
   }
 ]
