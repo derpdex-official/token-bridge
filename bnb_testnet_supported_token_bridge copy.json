@@ -1,0 +1,11 @@
+[
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "L1Address": "0x4200000000000000000000000000000000000006",
+    "L2Address": "0x4200000000000000000000000000000000000006",
+    "isNative": true,
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x4200000000000000000000000000000000000006.png"
+  }
+]
