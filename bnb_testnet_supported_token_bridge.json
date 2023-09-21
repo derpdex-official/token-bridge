@@ -11,7 +11,7 @@
   {
     "name": "USDT",
     "symbol": "USDT",
-    "decimals": 6,
+    "decimals": 18,
     "L1Address": "0x61A135aD927e7D458e20De41DdD55F2AA5888e27",
     "L2Address": "0x94332448acf26735f1070e277fb7326a71075d76",
     "isNative": false,
