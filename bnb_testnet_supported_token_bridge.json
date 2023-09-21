@@ -12,8 +12,8 @@
     "name": "USDT",
     "symbol": "USDT",
     "decimals": 6,
-    "L1Address": "0x834edEB1d47015440bdEbc8261ac134B969355cd",
-    "L2Address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+    "L1Address": "0x61A135aD927e7D458e20De41DdD55F2AA5888e27",
+    "L2Address": "0x94332448acf26735f1070e277fb7326a71075d76",
     "isNative": false,
     "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x834edEB1d47015440bdEbc8261ac134B969355cd.png"
   }
