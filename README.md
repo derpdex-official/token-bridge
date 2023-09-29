@@ -1,4 +1,4 @@
-# Token Bridge Details (zkSync Era)
+# Token Bridge Details
 Please refer the token list supported for bridge as below:
 
 #### Ethereum Mainnet (L1) <-> zkSync Era Mainnet (L2)
