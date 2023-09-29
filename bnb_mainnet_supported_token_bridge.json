@@ -16,5 +16,32 @@
     "L2Address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
     "isNative": false,
     "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x834edEB1d47015440bdEbc8261ac134B969355cd.png"
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "L1Address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "L2Address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "isNative": false,
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409.png"
+  },
+  {
+    "name": "Ethereum Token",
+    "symbol": "ETH",
+    "decimals": 18,
+    "L1Address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "L2Address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
+    "isNative": false,
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+  },
+  {
+    "name": "BTCB Token",
+    "symbol": "BTCB",
+    "decimals": 18,
+    "L1Address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "L2Address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+    "isNative": false,
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   }
 ]
